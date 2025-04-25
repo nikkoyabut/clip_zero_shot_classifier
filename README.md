@@ -45,7 +45,7 @@ CLIP can understand images and text in the same embedding space. With this app, 
 ## 📓 Notebook
 
 You can explore the companion Jupyter notebook here:
-[📘 Open notebook.ipynb](./notebook/notebook.ipynb)
+[📘 Open notebook.ipynb](./notebook/clip_inspect.ipynb)
 
 ---
 
